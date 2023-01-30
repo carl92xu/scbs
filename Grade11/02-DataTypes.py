@@ -1,0 +1,1 @@
+print("The length in cm is",float(input("Enter the length in inches: "))*2.54,"cm")

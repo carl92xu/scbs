@@ -1,0 +1,480 @@
+D	Sunny
+D	VW
+D	ツ
+L	VW
+D	Scott Yang
+G	VW
+J	VW
+D	ツ
+D	梦追人
+L	ツ
+L	Scott Yang
+A	VW
+L	ツ
+L	ツ
+L	梦追人
+G	Scott Yang
+D	温斯顿
+G	梦追人
+J	梦追人
+J	Scott Yang
+G	ツ
+D	きよみつ
+D	Sunny
+J	ツ
+D	大可樂
+L	温斯顿
+L	🦁️
+D	🦁️
+A	梦追人
+A	Scott Yang
+A	ツ
+L	🦁️
+G	🦁️
+D	CL.
+L	きよみつ
+L	Sunny
+A	ツ
+G	🦁️
+J	🦁️
+A	ツ
+G	温斯顿
+H	VW
+G	Sunny
+G	きよみつ
+H	梦追人
+J	🦁️
+G	VW
+H	Scott Yang
+D	莳雨
+J	きよみつ
+G	梦追人
+G	Sunny
+J	温斯顿
+J	Sunny
+K	VW
+L	CL.
+L	大可樂
+K	梦追人
+G	CL.
+G	大可樂
+G	Scott Yang
+J	CL.
+D	Alice
+J	大可樂
+D	Coco
+K	Scott Yang
+L	莳雨
+E	梦追人
+E	🦁️
+E	VW
+E	Scott Yang
+L	Coco
+G	莳雨
+D	哈根达斯·吴小迪
+J	莳雨
+A	CL.
+A	きよみつ
+I	梦追人
+I	Scott Yang
+G	梦追人
+A	🦁️
+G	Coco
+E	CL.
+A	大可樂
+H	ツ
+A	温斯顿
+A	Sunny
+A	莳雨
+A	🦁️
+G	Scott Yang
+C	梦追人
+I	VW
+G	Alice
+J	Coco
+G	VW
+C	Scott Yang
+H	🦁️
+H	CL.
+G	ツ
+H	莳雨
+H	きよみつ
+H	温斯顿
+G	CL.
+D	celine
+G	🦁️
+K	ツ
+G	温斯顿
+H	大可樂
+K	CL.
+G	きよみつ
+K	🦁️
+C	VW
+D	凌
+G	大可樂
+K	温斯顿
+K	きよみつ
+E	CL.
+E	ツ
+K	大可樂
+H	Sunny
+E	🦁️
+D	Yang
+E	温斯顿
+I	CL.
+E	きよみつ
+G	Sunny
+I	🦁️
+E	大可樂
+I	ツ
+G	CL.
+G	CL.
+L	celine
+D	陈炯智敬爱的父亲
+G	🦁️
+I	温斯顿
+K	Sunny
+A	Coco
+G	ツ
+I	きよみつ
+I	大可樂
+C	CL.
+L	哈根达斯·吴小迪
+C	🦁️
+L	凌
+G	きよみつ
+G	温斯顿
+A	Alice
+G	celine
+G	大可樂
+G	凌
+C	ツ
+G	哈根达斯·吴小迪
+J	凌
+J	celine
+C	きよみつ
+C	温斯顿
+C	大可樂
+J	哈根达斯·吴小迪
+B	VW
+B	梦追人
+G	莳雨
+B	CL.
+B	Scott Yang
+B	CL.
+B	🦁️
+G	VW
+G	梦追人
+G	CL.
+K	莳雨
+D	Big Shaq
+G	Scott Yang
+B	ツ
+G	🦁️
+F	梦追人
+F	VW
+F	Scott Yang
+D	梦追人
+D	VW
+F	CL.
+D	Xin
+F	🦁️
+A	celine
+D	CL.
+D	VW
+D	Scott Yang
+A	哈根达斯·吴小迪
+G	ツ
+A	凌
+D	🦁️
+D	Big Shaq
+F	ツ
+L	Big Shaq
+L	陈炯智敬爱的父亲
+L	Yang
+E	莳雨
+D	cyc
+D	ツ
+G	Big Shaq
+G	Yang
+G	陈炯智敬爱的父亲
+D	cyc
+I	莳雨
+D	cyc
+D	Johnny
+E	Sunny
+J	陈炯智敬爱的父亲
+G	莳雨
+J	Yang
+H	Coco
+H	Alice
+D	胆小且卑微的鱼
+C	莳雨
+H	哈根达斯·吴小迪
+H	凌
+L	Xin
+H	celine
+G	Coco
+D	Lilacine
+G	Alice
+G	凌
+L	Xin
+G	哈根达斯·吴小迪
+G	Alice
+G	celine
+K	凌
+K	哈根达斯·吴小迪
+K	Coco
+A	Big Shaq
+L	Johnny
+K	Alice
+A	Yang
+A	陈炯智敬爱的父亲
+K	celine
+L	胆小且卑微的鱼
+E	凌
+I	Sunny
+L	cyc
+E	哈根达斯·吴小迪
+D	表情
+E	celine
+G	Xin
+G	Johnny
+E	Alice
+E	Coco
+G	胆小且卑微的鱼
+I	凌
+G	Sunny
+G	cyc
+I	哈根达斯·吴小迪
+G	凌
+I	celine
+J	胆小且卑微的鱼
+G	哈根达斯·吴小迪
+J	cyc
+J	Johnny
+D	みこりん
+I	Alice
+C	哈根达斯·吴小迪
+I	Coco
+J	Xin
+C	凌
+G	Coco
+G	celine
+J	Xin
+G	Alice
+C	celine
+L	Lilacine
+C	Alice
+C	Coco
+C	Sunny
+L	表情
+D	Julieeee
+A	胆小且卑微的鱼
+A	Johnny
+A	cyc
+L	みこりん
+G	表情
+G	Lilacine
+G	表情
+J	表情
+J	Lilacine
+B	Sunny
+G	みこりん
+B	莳雨
+B	大可樂
+B	凌
+B	celine
+G	Sunny
+B	温斯顿
+B	Alice
+B	Coco
+B	哈根达斯·吴小迪
+B	きよみつ
+D	韬韬独宠的宝贝
+G	凌
+H	Big Shaq
+G	celine
+H	cyc
+G	大可樂
+H	胆小且卑微的鱼
+G	莳雨
+H	陈炯智敬爱的父亲
+G	哈根达斯·吴小迪
+G	Coco
+H	Johnny
+G	温斯顿
+H	Yang
+G	きよみつ
+A	Xin
+F	哈根达斯·吴小迪
+L	Julieeee
+F	celine
+G	Big Shaq
+J	みこりん
+A	表情
+F	Alice
+D	jeanne
+F	Alice
+F	凌
+G	胆小且卑微的鱼
+G	陈炯智敬爱的父亲
+D	celine
+D	莳雨
+G	Johnny
+F	Sunny
+F	きよみつ
+G	Yang
+F	大可樂
+K	Big Shaq
+F	Coco
+A	Lilacine
+G	cyc
+A	Xin
+D	Alice
+K	陈炯智敬爱的父亲
+K	Johnny
+K	胆小且卑微的鱼
+D	哈根达斯·吴小迪
+D	凌
+K	cyc
+F	温斯顿
+K	Yang
+D	Coco
+D	Sunny
+D	温斯顿
+D	きよみつ
+A	みこりん
+G	Julieeee
+D	jeanne
+E	Johnny
+E	cyc
+D	大可樂
+E	Yang
+D	Coco
+E	胆小且卑微的鱼
+E	Big Shaq
+E	陈炯智敬爱的父亲
+I	Johnny
+I	Big Shaq
+I	胆小且卑微的鱼
+I	cyc
+I	Yang
+I	陈炯智敬爱的父亲
+A	表情
+G	胆小且卑微的鱼
+G	cyc
+G	Big Shaq
+G	Yang
+G	陈炯智敬爱的父亲
+G	Johnny
+C	Big Shaq
+C	Yang
+H	Lilacine
+H	表情
+C	胆小且卑微的鱼
+C	cyc
+C	Johnny
+H	Xin
+C	陈炯智敬爱的父亲
+J	Julieeee
+G	表情
+G	Lilacine
+G	Xin
+K	表情
+B	Johnny
+L	韬韬独宠的宝贝
+K	Lilacine
+B	胆小且卑微的鱼
+B	cyc
+B	陈炯智敬爱的父亲
+B	Yang
+B	Big Shaq
+H	みこりん
+K	Xin
+L	jeanne
+G	みこりん
+B	陈炯智敬爱的父亲
+G	Johnny
+G	胆小且卑微的鱼
+G	cyc
+G	Big Shaq
+G	Yang
+G	陈炯智敬爱的父亲
+K	みこりん
+G	jeanne
+F	Johnny
+F	cyc
+F	陈炯智敬爱的父亲
+F	Big Shaq
+F	胆小且卑微的鱼
+G	韬韬独宠的宝贝
+E	表情
+F	Yang
+E	Xin
+D	Johnny
+D	cyc
+D	Big Shaq
+A	Julieeee
+D	胆小且卑微的鱼
+E	みこりん
+D	陈炯智敬爱的父亲
+D	Yang
+D	Yang
+E	Lilacine
+I	表情
+I	Xin
+J	韬韬独宠的宝贝
+G	表情
+G	Xin
+J	jeanne
+I	みこりん
+I	Lilacine
+F	表情
+G	みこりん
+G	Lilacine
+C	Xin
+C	表情
+C	みこりん
+C	Xin
+C	Lilacine
+H	Julieeee
+G	Julieeee
+A	韬韬独宠的宝贝
+K	Julieeee
+B	Xin
+H	韬韬独宠的宝贝
+E	Julieeee
+G	Xin
+F	Xin
+G	韬韬独宠的宝贝
+F	Xin
+K	韬韬独宠的宝贝
+D	Xin
+E	韬韬独宠的宝贝
+I	Julieeee
+B	表情
+G	Julieeee
+I	韬韬独宠的宝贝
+B	Lilacine
+G	表情
+C	Julieeee
+G	韬韬独宠的宝贝
+F	表情
+B	みこりん
+G	Lilacine
+D	表情
+C	韬韬独宠的宝贝
+G	みこりん
+F	Lilacine
+F	みこりん
+D	Lilacine
+D	みこりん
+B	韬韬独宠的宝贝
+B	Julieeee
+G	韬韬独宠的宝贝
+F	韬韬独宠的宝贝
+G	Julieeee
+D	韬韬独宠的宝贝
+F	Julieeee
+D	Julieeee

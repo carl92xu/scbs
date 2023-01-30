@@ -1,0 +1,11 @@
+day = input("What is today? ")
+print("You just typed: ",day)
+ict = input("What is your grade for ICT? ")
+math = input("What is your grade for Math? ")
+english = input("What is your grade for English? \n")
+
+print("Below is a summary of your IGCSE grades: \n" )
+print("ICT grade: " , ict)
+print("Math grade: " , math)
+print("English grade: " , english , "\n")
+print("Good luck with AS!")

@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b59b04e-120a-4ab2-96c5-20d082625817" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="cow_v1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cow_v1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="78" column="11" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="11" />
+              <folding>
+                <element signature="n#!!doc" />
+                <element signature="e#70#1034#0" />
+                <element signature="e#1058#1313#0" />
+                <element signature="e#1340#1551#0" />
+                <element signature="e#1587#1781#0" />
+                <element signature="e#1799#1934#0" />
+                <element signature="e#2883#3146#0" />
+                <element signature="e#3168#3833#0" />
+                <element signature="e#3853#5092#0" />
+                <element signature="e#5125#6087#0" />
+                <element signature="e#6114#6776#0" />
+                <element signature="e#6802#7088#0" />
+                <element signature="e#7314#7502#0" />
+                <element signature="e#8049#8313#0" />
+                <element signature="e#8371#8477#0" />
+                <element signature="e#8496#10855#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cows.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/txtfile/cows.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cow_v2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cow_v2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1065">
+              <caret line="94" selection-start-line="94" selection-end-line="94" />
+              <folding>
+                <element signature="n#!!doc" />
+                <element signature="e#72#885#0" />
+                <element signature="e#903#1038#0" />
+                <element signature="e#1065#1176#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bookID</find>
+      <find>who is</find>
+      <find>cow_code</find>
+      <find>10</find>
+      <find>cow_num</find>
+      <find>003</find>
+      <find>That record has been added</find>
+      <find>cowwwID</find>
+      <find>milkYields</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../Book_Loan3/Book_Loan.py" />
+        <option value="$USER_HOME$/Downloads/Cow - Jason/Farmer.py" />
+        <option value="$USER_HOME$/Downloads/Monopoly/Monopoly_GUI.py" />
+        <option value="$PROJECT_DIR$/Cow_GUI.py" />
+        <option value="$PROJECT_DIR$/txtfile/cows.txt" />
+        <option value="$PROJECT_DIR$/Cow_v1.py" />
+        <option value="$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py" />
+        <option value="$PROJECT_DIR$/Cow_v2.py" />
+        <option value="$PROJECT_DIR$/cow_v3.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/cow_v2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="0478_s18_pre_22" type="b2602c69:ProjectViewProjectNode" />
+              <item name="0478_s18_pre_22" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\xcarl\PycharmProjects\Cow\txtfile" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Cow-BB(Without txt)">
+    <configuration name="Cow-BB(Without txt)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="0478_s18_pre_22" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Cow - BB" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Cow - BB/Cow-BB(Without txt).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Cow_v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="0478_s18_pre_22" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cow_v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="cow_v3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="0478_s18_pre_22" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_J.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="task3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Cow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Computer Science/task123" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Computer Science/task123/task3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="0478_s18_pre_22" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="Cow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <module name="Cow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Cow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="Cow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.task3" />
+      <item itemvalue="Python.Cow_v2" />
+      <item itemvalue="Python.cow_v3" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.Cow-BB(Without txt)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Cow-BB(Without txt)" />
+        <item itemvalue="Python.Cow_v2" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.cow_v3" />
+        <item itemvalue="Python.task3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b59b04e-120a-4ab2-96c5-20d082625817" name="Default" comment="" />
+      <created>1512435356301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512435356301</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19943622" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50555557" side_tool="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" x="-1021" y="539" width="1440" height="280" id="Run" order="2" sideWeight="0.49444443" weight="0.36" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24947146" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" x="729" y="57" width="695" height="503" id="Debug" order="3" type="FLOATING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16165951" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49722221" visible="true" weight="0.32941177" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info id="Structure" order="1" weight="0.24964234" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50277776" side_tool="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_J.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="60" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cow_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="78" column="11" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="11" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#70#1034#0" />
+            <element signature="e#1058#1313#0" />
+            <element signature="e#1340#1551#0" />
+            <element signature="e#1587#1781#0" />
+            <element signature="e#1799#1934#0" />
+            <element signature="e#2883#3146#0" />
+            <element signature="e#3168#3833#0" />
+            <element signature="e#3853#5092#0" />
+            <element signature="e#5125#6087#0" />
+            <element signature="e#6114#6776#0" />
+            <element signature="e#6802#7088#0" />
+            <element signature="e#7314#7502#0" />
+            <element signature="e#8049#8313#0" />
+            <element signature="e#8371#8477#0" />
+            <element signature="e#8496#10855#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txtfile/cows.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cow_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#72#885#0" />
+            <element signature="e#903#1038#0" />
+            <element signature="e#1065#1176#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Cow - BB/Cow-BB(Without txt).py" />
+    <entry file="file://$PROJECT_DIR$/txtfile/cows.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cow_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2625">
+          <caret line="175" column="4" selection-start-line="175" selection-start-column="4" selection-end-line="175" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#70#1034#0" />
+            <element signature="e#1058#1313#0" />
+            <element signature="e#1340#1551#0" />
+            <element signature="e#1587#1781#0" />
+            <element signature="e#1799#1934#0" />
+            <element signature="e#2883#3146#0" />
+            <element signature="e#3168#3833#0" />
+            <element signature="e#3853#5092#0" />
+            <element signature="e#5125#6087#0" />
+            <element signature="e#6114#6776#0" />
+            <element signature="e#6802#7088#0" />
+            <element signature="e#7314#7502#0" />
+            <element signature="e#8049#8313#0" />
+            <element signature="e#8371#8477#0" />
+            <element signature="e#8496#10855#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txtfile/cows.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="8" lean-forward="true" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cow_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#70#1034#0" />
+            <element signature="e#1058#1313#0" />
+            <element signature="e#1340#1551#0" />
+            <element signature="e#1587#1781#0" />
+            <element signature="e#1799#1934#0" />
+            <element signature="e#2883#3146#0" />
+            <element signature="e#3168#3833#0" />
+            <element signature="e#3853#5092#0" />
+            <element signature="e#5125#6087#0" />
+            <element signature="e#6114#6776#0" />
+            <element signature="e#6802#7088#0" />
+            <element signature="e#7314#7502#0" />
+            <element signature="e#8049#8313#0" />
+            <element signature="e#8371#8477#0" />
+            <element signature="e#8496#10855#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txtfile/cows.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cow_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#70#1034#0" />
+            <element signature="e#1058#1313#0" />
+            <element signature="e#1340#1551#0" />
+            <element signature="e#1587#1781#0" />
+            <element signature="e#1799#1934#0" />
+            <element signature="e#2883#3146#0" />
+            <element signature="e#3168#3833#0" />
+            <element signature="e#3853#5092#0" />
+            <element signature="e#5125#6087#0" />
+            <element signature="e#6114#6776#0" />
+            <element signature="e#6802#7088#0" />
+            <element signature="e#7314#7502#0" />
+            <element signature="e#8049#8313#0" />
+            <element signature="e#8371#8477#0" />
+            <element signature="e#8496#10855#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txtfile/cows.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cow_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#70#1034#0" />
+            <element signature="e#1058#1313#0" />
+            <element signature="e#1340#1551#0" />
+            <element signature="e#1587#1781#0" />
+            <element signature="e#1799#1934#0" />
+            <element signature="e#2883#3146#0" />
+            <element signature="e#3168#3833#0" />
+            <element signature="e#3853#5092#0" />
+            <element signature="e#5125#6087#0" />
+            <element signature="e#6114#6776#0" />
+            <element signature="e#6802#7088#0" />
+            <element signature="e#7314#7502#0" />
+            <element signature="e#8049#8313#0" />
+            <element signature="e#8371#8477#0" />
+            <element signature="e#8496#10855#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txtfile/cows.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cow_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#70#1034#0" />
+            <element signature="e#1058#1313#0" />
+            <element signature="e#1340#1551#0" />
+            <element signature="e#1587#1781#0" />
+            <element signature="e#1799#1934#0" />
+            <element signature="e#2883#3146#0" />
+            <element signature="e#3168#3833#0" />
+            <element signature="e#3853#5092#0" />
+            <element signature="e#5125#6087#0" />
+            <element signature="e#6114#6776#0" />
+            <element signature="e#6802#7088#0" />
+            <element signature="e#7314#7502#0" />
+            <element signature="e#8049#8313#0" />
+            <element signature="e#8371#8477#0" />
+            <element signature="e#8496#10855#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txtfile/cows.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cow_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2745">
+          <caret line="183" column="6" lean-forward="true" selection-start-line="183" selection-start-column="6" selection-end-line="183" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#70#1034#0" />
+            <element signature="e#1058#1313#0" />
+            <element signature="e#1340#1551#0" />
+            <element signature="e#1587#1781#0" />
+            <element signature="e#1799#1934#0" />
+            <element signature="e#2883#3146#0" />
+            <element signature="e#3168#3833#0" />
+            <element signature="e#3853#5092#0" />
+            <element signature="e#5125#6087#0" />
+            <element signature="e#6114#6776#0" />
+            <element signature="e#6802#7088#0" />
+            <element signature="e#7314#7502#0" />
+            <element signature="e#8049#8313#0" />
+            <element signature="e#8371#8477#0" />
+            <element signature="e#8496#10855#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txtfile/cows.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cow_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2745">
+          <caret line="183" column="6" lean-forward="true" selection-start-line="183" selection-start-column="6" selection-end-line="183" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#70#1034#0" />
+            <element signature="e#1058#1313#0" />
+            <element signature="e#1340#1551#0" />
+            <element signature="e#1587#1781#0" />
+            <element signature="e#1799#1934#0" />
+            <element signature="e#2883#3146#0" />
+            <element signature="e#3168#3833#0" />
+            <element signature="e#3853#5092#0" />
+            <element signature="e#5125#6087#0" />
+            <element signature="e#6114#6776#0" />
+            <element signature="e#6802#7088#0" />
+            <element signature="e#7314#7502#0" />
+            <element signature="e#8049#8313#0" />
+            <element signature="e#8371#8477#0" />
+            <element signature="e#8496#10855#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txtfile/cows.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cow_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="137" column="49" selection-start-line="137" selection-start-column="49" selection-end-line="137" selection-end-column="49" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#70#1034#0" />
+            <element signature="e#1058#1313#0" />
+            <element signature="e#1340#1551#0" />
+            <element signature="e#1587#1781#0" />
+            <element signature="e#1799#1934#0" />
+            <element signature="e#2883#3146#0" />
+            <element signature="e#3168#3833#0" />
+            <element signature="e#3853#5092#0" />
+            <element signature="e#5125#6087#0" />
+            <element signature="e#6114#6776#0" />
+            <element signature="e#6802#7088#0" />
+            <element signature="e#7314#7502#0" />
+            <element signature="e#8049#8313#0" />
+            <element signature="e#8371#8477#0" />
+            <element signature="e#8496#10855#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Cow - Jason/data/milk_info/milk1.txt" />
+    <entry file="file://$USER_HOME$/Downloads/Cow - Jason/Farmer.py" />
+    <entry file="file://$PROJECT_DIR$/../Book_Loan3/Book_Loan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="113" column="6" lean-forward="true" selection-start-line="113" selection-start-column="6" selection-end-line="113" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txtfile/cows.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cow_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#70#1034#0" />
+            <element signature="e#1058#1313#0" />
+            <element signature="e#1340#1551#0" />
+            <element signature="e#1587#1781#0" />
+            <element signature="e#1799#1934#0" />
+            <element signature="e#2883#3146#0" />
+            <element signature="e#3168#3833#0" />
+            <element signature="e#3853#5092#0" />
+            <element signature="e#5125#6087#0" />
+            <element signature="e#6114#6776#0" />
+            <element signature="e#6802#7088#0" />
+            <element signature="e#7314#7502#0" />
+            <element signature="e#8049#8313#0" />
+            <element signature="e#8371#8477#0" />
+            <element signature="e#8496#10855#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txtfile/cows.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Book_Loan3/Book_Loan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Book_Loan3/Book_Loan.py" />
+    <entry file="file://$PROJECT_DIR$/cow_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#70#1034#0" />
+            <element signature="e#1058#1313#0" />
+            <element signature="e#1340#1551#0" />
+            <element signature="e#1587#1781#0" />
+            <element signature="e#1799#1934#0" />
+            <element signature="e#2883#3146#0" />
+            <element signature="e#3168#3833#0" />
+            <element signature="e#3853#5092#0" />
+            <element signature="e#5125#6087#0" />
+            <element signature="e#6114#6776#0" />
+            <element signature="e#6802#7088#0" />
+            <element signature="e#7314#7502#0" />
+            <element signature="e#8049#8313#0" />
+            <element signature="e#8371#8477#0" />
+            <element signature="e#8496#10855#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txtfile/cows.txt" />
+    <entry file="file://$PROJECT_DIR$/cow_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#70#1034#0" />
+            <element signature="e#1058#1313#0" />
+            <element signature="e#1340#1551#0" />
+            <element signature="e#1587#1781#0" />
+            <element signature="e#1799#1934#0" />
+            <element signature="e#2883#3146#0" />
+            <element signature="e#3168#3833#0" />
+            <element signature="e#3853#5092#0" />
+            <element signature="e#5125#6087#0" />
+            <element signature="e#6114#6776#0" />
+            <element signature="e#6802#7088#0" />
+            <element signature="e#7314#7502#0" />
+            <element signature="e#8049#8313#0" />
+            <element signature="e#8371#8477#0" />
+            <element signature="e#8496#10855#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txtfile/cows.txt" />
+    <entry file="file:///10.50.49.208/Grade10(shared)/array/array.py" />
+    <entry file="file://$USER_HOME$/Downloads/Cow - Jason/Farmer.py" />
+    <entry file="file://$USER_HOME$/Downloads/Cow - Jason/data/milk_info/milk1.txt" />
+    <entry file="file://$PROJECT_DIR$/../Book_Loan3/Book_Loan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="113" column="6" lean-forward="true" selection-start-line="113" selection-start-column="6" selection-end-line="113" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Monopoly/Monopoly_GUI.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="724" selection-start-line="724" selection-end-line="724" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cow_GUI.py" />
+    <entry file="file://$PROJECT_DIR$/../Cow - BB/task2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/task123/task3.py" />
+    <entry file="file://$USER_HOME$/Desktop/Computer Science/task123/task3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="59" column="49" selection-start-line="59" selection-start-column="49" selection-end-line="59" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="55" lean-forward="true" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cow_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="78" column="11" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="11" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#70#1034#0" />
+            <element signature="e#1058#1313#0" />
+            <element signature="e#1340#1551#0" />
+            <element signature="e#1587#1781#0" />
+            <element signature="e#1799#1934#0" />
+            <element signature="e#2883#3146#0" />
+            <element signature="e#3168#3833#0" />
+            <element signature="e#3853#5092#0" />
+            <element signature="e#5125#6087#0" />
+            <element signature="e#6114#6776#0" />
+            <element signature="e#6802#7088#0" />
+            <element signature="e#7314#7502#0" />
+            <element signature="e#8049#8313#0" />
+            <element signature="e#8371#8477#0" />
+            <element signature="e#8496#10855#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_J.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Cow - BB/task3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="15" selection-start-line="2" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cow_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#72#885#0" />
+            <element signature="e#903#1038#0" />
+            <element signature="e#1065#1176#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/txtfile/cows.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Cow - BB/Cow-BB(Without txt).py" />
+  </component>
+</project>
